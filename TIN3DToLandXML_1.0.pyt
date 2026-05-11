@@ -2,6 +2,7 @@
 """
 Tin3DToLandXML.pyt
 Version: 1.0
+License: CC0 1.0 Universal
 
 ArcGIS Pro Python toolbox for exporting one or more Esri TIN
 layers/datasets to LandXML 1.2 surface XML.
